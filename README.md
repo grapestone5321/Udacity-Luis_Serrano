@@ -80,6 +80,125 @@ https://www.youtube.com/playlist?list=PLs8w1Cdi-zvbv6iq6Xu01PgflKmMDRMDl
 
 -------
 
+## General Machine Learning
+https://www.youtube.com/playlist?list=PLs8w1Cdi-zvYKddqF_TFR7_yXuinufEPN
+
+
+
+### 1 / 7: A Friendly Introduction to Machine Learning
+
+
+### 2: Machine Learning: Testing and Error Metrics
+
+
+### 3: ROC (Receiver Operating Characteristic) Curve in 10 minutes!
+
+
+### 4: Linear Regression: A friendly introduction
+
+
+### 5: Logistic Regression and the Perceptron Algorithm: A friendly introduction
+
+### 6: Support Vector Machines (SVMs): A friendly introduction
+
+
+### 7: The Gini Impurity Index explained in 8 minutes!
+
+-------
+
+## Mathematics videos
+https://www.youtube.com/playlist?list=PLs8w1Cdi-zvbEpRC8YqZcSIKipAe1QHGt
+
+
+### 1 / 7: Eigenvectors and Generalized Eigenspaces
+
+
+### 2: You are much better at math than you think
+
+
+### 3: Shannon Entropy and Information Gain
+
+
+### 4: Bayes theorem, false positives, and why I'm terrified of going to the doctor
+
+
+### 5: Geometric series and my Irish heritage
+
+
+### 6: A friendly introduction to Bayes Theorem and Hidden Markov Models
+
+
+### 7: Luis Serrano / The down operator and expansions of near rectangular k-Schur functions
+Mathnet Korea
+
+
+-------
+
+## Machine Learning
+https://www.youtube.com/playlist?list=PLs8w1Cdi-zvY9ICoYqu1XV0YoTQgShXw2
+
+
+### 1 / 8: Machine Learning: Testing and Error Metrics
+
+### 2: A Friendly Introduction to Machine Learning
+
+
+### 3: Deep Learning Nanodegree Program
+Udacity
+
+### 4: How does Netflix recommend movies? Matrix Factorization
+Luis Serrano
+
+### 5: Linear Regression: A friendly introduction
+
+### 6: Support Vector Machines (SVMs): A friendly introduction
+
+
+### 7: Naive Bayes classifier: A friendly approach
+
+
+### 8: Thompson sampling, one armed bandits, and the Beta distribution
+
+-------
+
+## Neural Networks
+
+
+### 1 / 6: A friendly introduction to Deep Learning and Neural Networks
+
+
+### 2: A friendly introduction to Convolutional Neural Networks and Image Recognition
+
+
+### 3: A friendly introduction to Recurrent Neural Networks
+
+
+### 4: A Friendly Introduction to Generative Adversarial Networks (GANs)
+
+
+### 5: Restricted Boltzmann Machines (RBM) - A friendly introduction
+
+
+### 6: A friendly introduction to deep reinforcement learning, Q-networks and policy gradients
+
+
+-------
+
+
+
+
+
+
+
+
+
+
+-------
+
+
+
+
+
 
 
 
